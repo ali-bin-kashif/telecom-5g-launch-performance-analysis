@@ -16,14 +16,14 @@ However, the management noticed a decline in their active users and revenue grow
 
 ## Data Model
 <p align="center">
-<img src="media/data-model.jpeg" height="400">
+<img src="media/data-model.png" height="400">
 </p>
 
 ## Dashboard
 <p align="center">
-<img src="media/dashboard-1.jpeg">
+<img src="media/dashboard.png">
 </p>
-Live Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjM4ZjFiNDItOGMyNC00NjhlLTg4ZGQtZjQxMDFlNzNjNWU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection6b7ea69cca3d2b394a4a">Click Here</a>
+Live Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiMWNhMGY1ODYtOGJlNy00OWZhLWIzOTgtYjFiYjY5MGNlZjVkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Click Here</a>
 
 ## Key Insights: 
 - Dairy products are in majority.
