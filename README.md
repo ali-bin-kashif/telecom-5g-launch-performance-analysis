@@ -26,12 +26,4 @@ However, the management noticed a decline in their active users and revenue grow
 Live Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiMWNhMGY1ODYtOGJlNy00OWZhLWIzOTgtYjFiYjY5MGNlZjVkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Click Here</a>
 
 ## Key Insights: 
-- Dairy products are in majority.
-- Products are not being delivered in full ordered quantity.
-- All the perfomance metrics(OT%, IF%, OTIF%) are below the target, the mart supply chain is not performing good.
-- Line Fill Rate is 65.96%, it means many of the orders are not being delivered in full quantity.
-- Volume Fill Rate is around 96%, it means there is 4% difference in the quantity of items when they reached the customers.
-- There is no noticeable improvements in any of the key metrics in the last few months.
-- There is a big in IF% vs Target for most of the customers. Is it because of less production?
-- Lotus Mart, Coolblue and Acclaimed Stores are among the customers with highest number of orders but also most delayed delivery rate.
-
+- Will add soon.
